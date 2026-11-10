@@ -23,7 +23,7 @@ Seu objetivo é reduzir o tempo gasto na preparação das imagens e facilitar o 
 - [ ] 3.2 — Ferramentas e Tecnologias
 - [ ] 3.3 — Arquitetura do Sistema
 - [x] 4.2.2 — Casos de Uso
-- [ ] 4.2.3 — Classes
+- [x] 4.2.3 — Classes
 - [ ] 4.2.4 — Sequência
 - [ ] 4.2.5 — Atividade
 - [ ] 4.2.6 — Banco de Dados
